@@ -39,6 +39,6 @@
 - Minio + [hdd хостинг first vds](https://firstvds.ru/storage-vds) (32 ТБ трафика)
 - Object Storage в Яндекс Облаке - ледяное хранилище (платный трафик, хранение дешевле)
 ##### бд - postgresql (новый инстанс или новая бд в существующем?)
-##### основные тачки - Москва - [ruvds](https://ruvds.com/ru-rub)
+##### основные тачки - Москва - [ruvds](https://ruvds.com/ru-rub) (почему?) или firstvds (если там будет хранилище)
 ##### тачки вне РФ - Финляндия - [pq.hosting](http://pq.hosting/)
 - может пригодится для парсинга rutracker
